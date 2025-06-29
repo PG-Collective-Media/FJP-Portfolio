@@ -1,12 +1,13 @@
 # FJP-Portfolio
-A full-stack portfolio of data engineering, renewable energy analytics, STEM education tools, and tech projects - built for impact, legacy and open learning.
 
+A full-stack portfolio of data engineering, renewable energy analytics, STEM education tools, and tech projects - built for impact, legacy and open learning.
 
 👨‍👧‍👦 Father | 🧠 Data Engineer | 🎮 Game Developer | 🌍 Pan-African Educator
 
 Welcome to my public tech archive — a living portfolio and tribute to building with purpose.
 
 This space is where:
+
 - I explore and share my work in **data engineering** and **SQL development**
 - I tinker with **game development** projects for fun and learning
 - I share stories and resources from **Gifted Genius STEM Lab**, my nonprofit
@@ -18,6 +19,7 @@ This space is where:
 ## 🔧 Projects
 
 ### 🗂️ Data Engineering
+
 Organized beginner-to-advanced pipelines, ETL projects, and scalable architecture examples:
 
 ```
@@ -49,6 +51,7 @@ Organized beginner-to-advanced pipelines, ETL projects, and scalable architectur
 ```
 
 ### 📈 Data Analysis
+
 Statistical analysis, business insight generation, and visualization-rich storytelling:
 
 ```
@@ -61,6 +64,7 @@ Statistical analysis, business insight generation, and visualization-rich storyt
 ```
 
 ### ⚡ Renewable Energy Projects
+
 Energy-focused projects using SQL, dashboards, simulations, and policy exploration:
 
 ```
@@ -73,6 +77,7 @@ Energy-focused projects using SQL, dashboards, simulations, and policy explorati
 ```
 
 ### 🌍 Pan-African Data & Finance
+
 Projects centered around Black economic power and global diasporic insight:
 
 ```
@@ -84,6 +89,7 @@ Projects centered around Black economic power and global diasporic insight:
 ```
 
 ### 🎮 Game Development (Vibranium Studios | Founder & CEO)
+
 Fun, fast, and free games built to inspire, educate, and entertain:
 
 ```
@@ -96,6 +102,7 @@ Fun, fast, and free games built to inspire, educate, and entertain:
 ---
 
 ## 🌱 GGSL - Gifted Genius STEM Lab (Non-Profit)
+
 Empowering young minds in underserved communities to code and create.
 
 ```
@@ -110,6 +117,7 @@ Empowering young minds in underserved communities to code and create.
 ---
 
 ## 🧔🏾 Fatherhood + Tech
+
 Explore how I raise my kids with code and creativity.
 
 ```
@@ -121,6 +129,7 @@ Explore how I raise my kids with code and creativity.
 ---
 
 ## ✍🏾 Blog
+
 Writing on data, games, culture, and creativity. Published via GitHub Pages or Substack.
 
 ```
@@ -133,6 +142,7 @@ Writing on data, games, culture, and creativity. Published via GitHub Pages or S
 ---
 
 ## 📜 Resume
+
 View my full resume [here](./public_resume/resume.pdf)
 
 ---
@@ -163,4 +173,4 @@ View my full resume [here](./public_resume/resume.pdf)
 
 ---
 
-Feel free to fork, learn, and build from here. 🌍✨
+Feel free to fork, learn, and build from here! 🌍✨
