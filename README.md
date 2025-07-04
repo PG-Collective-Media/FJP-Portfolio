@@ -143,7 +143,7 @@ Writing on data, games, culture, and creativity. Published via GitHub Pages or S
 
 ## 📜 Resume
 
-View my full resume [here](./public_resume/resume.pdf)
+View my full resume [here](https://www.getfjp.com/resume)
 
 ---
 

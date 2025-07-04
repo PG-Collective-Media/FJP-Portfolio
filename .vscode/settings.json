@@ -1,0 +1,12 @@
+{
+  "atlascode.jira.jqlList": [
+    {
+      "id": "f928a03c-767b-4452-96b3-dfb9262cc48d",
+      "siteId": "5dbbdd70-134f-4c99-a30c-c9ae4205d1b6",
+      "name": "FJP-Project Portfolio",
+      "query": "project = \"FJP Portfolio - Phase 1\"",
+      "enabled": true,
+      "monitor": true
+    }
+  ]
+}
