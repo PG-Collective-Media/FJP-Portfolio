@@ -5,5 +5,5 @@ CREATE TABLE marketing_campaign_results (
     Purchase_Made BOOLEAN,
     Age INT,
     Region VARCHAR(100),
-    Income_Bracket VARCHAR(50)
+    Income_Bracket VARCHAR(100)
 );
